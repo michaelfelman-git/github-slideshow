@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Veni Vidi Vici" - Julius Caesar
 Use the left arrow to go back!
